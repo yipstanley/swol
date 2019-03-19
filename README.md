@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Running the Project
+
+Make sure you have npm installed. You can access it [HERE](https://www.npmjs.com/get-npm) (message me if you need any help getting things set up). Once you have npm installed and this repo downloaded, from a terminal, go into the folder that this is downloaded on. Run npm install, and run npm start. It should open up a window on your browser. If it doesn't, navigate to localhost:3000 on a browser.
 
 ## Available Scripts
 
